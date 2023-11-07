@@ -1,5 +1,7 @@
 function setup() {
 
+  // createAdaptiveCanvas(8000, 8000);
+
   createAdaptiveCanvas(8000, 8000, false);
   // scaler.scaleCanvasTo(1); // <-- não é necessário
 

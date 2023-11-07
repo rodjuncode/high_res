@@ -6,3 +6,8 @@ html, body {
 canvas {
   display: block;
 }
+
+svg {
+  width: 8000px;
+  height: 8000px;
+}
